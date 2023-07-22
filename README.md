@@ -5,4 +5,4 @@ This is a line from RStudio.
 
 This is a line from GitHub.
 
-Here is a change on remote.
+Trying to create a merge conflict.
